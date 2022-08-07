@@ -1,4 +1,4 @@
-![Header](https://github.com/Preeti240/Preeti240/blob/main/header.png?raw=true)
+![Header](https://github.com/Preeti240/Preeti240/header.png?raw=true)
 
 ## Hi I'm Preeti! 👋
 <br/>
